@@ -1,0 +1,13 @@
+
+```text
+# Compiled binaries
+adaptive_app
+*.o
+
+# Runtime files
+data.txt
+trace.log
+
+# Temporary files
+*.swp
+*.tmp
